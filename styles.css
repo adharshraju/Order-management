@@ -31,7 +31,7 @@ body
 }
 
 
-.btn
+.button
 {
     text-align: center;
     vertical-align: middle;
@@ -40,7 +40,7 @@ body
 }
 
 
-.btn-primary
+.button-primary
 {
     color: white;
     background-color: #35a8ce;
@@ -49,7 +49,7 @@ body
     font-weight: bold;
 }
 
-.btn-primary:hover
+.button-primary:hover
 {
     background-color: #2242d1;
 }
@@ -168,7 +168,7 @@ body
     border-radius: 10px;
 }
 
-.btn-danger
+.button-danger
 {
     color: white;
     background-color: #EB5757;
@@ -177,7 +177,7 @@ body
     font-weight: bold;
 }
 
-.btn-danger:hover
+.button-danger:hover
 {
     background-color: #CC4C4C;
 }
@@ -227,7 +227,7 @@ body
     font-size: 1.1em;
 }
 
-.btn-purchase
+.button-purchase
 {
     display: block;
     margin: 40px auto 80px auto;
